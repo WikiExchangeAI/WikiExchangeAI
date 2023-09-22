@@ -1,0 +1,106 @@
+- 👋 Hi, I’m @WikiExchangeAI
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+WikiExchangeAI/WikiExchangeAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Summary
+
+Problem Definition
+
+Proposal
+
+For Admin Use
+
+[OKX] Not duplicate issue
+[OKX] Appropriate labels applied
+[OKX] Appropriate contributors tagged
+[OKX] Contributor assigned/self-assigned
+BlockNo
+#18188898
+MEV Block
+EigenPhi
+Overview
+Consensus Info
+MEV Info
+Comments
+Block Height:
+18188898
+
+Status:
+Finalized
+Timestamp:
+6 hrs 16 mins ago (Sep-22-2023 04:05:11 AM +UTC)
+Proposed On:
+Block proposed on slot 7377624, epoch 230550
+Transactions:
+177 transactions and 59 contract internal transactions in this block
+Withdrawals:
+16 withdrawals in this block
+Fee Recipient:
+rsync-builder in 12 secs
+Block Reward:
+0.037139670934945828 ETH (0 + 0.165681759541174758 - 0.12854208860622893)
+Total Difficulty:
+58,750,003,716,598,352,816,469
+Size:
+50,307 bytes
+Gas Used:
+11,406,058
+(38.02%)
+
+-24% Gas Target
+Gas Limit:
+30,000,000
+Base Fee Per Gas:
+0.000000011269633085 ETH (11.269633085 Gwei)
+Burnt Fees:
+🔥 0.12854208860622893 ETH
+Extra Data:
+rsync-builder.xyz (Hex:0x7273796e632d6275696c6465722e78797a)
+Hash:
+0x0cbd2870fc8e558469d27f728b64691d3058a5d523514a728d4d0283c1aad73f
+Parent Hash:
+0x8165c32ce0fd3dcd2ad902f32a51d37013fa65e6d3bf502798b510e65da23b99
+StateRoot:
+0xfc76d8bc4883615fb8259eb4c2649b49250bd1adefbccc762a2393928c896470
+WithdrawalsRoot:
+0x312ce0462f9c941f3a9ab5a0fd91d6d08b8ad7be148ee0af8f717f9fea9b30b8
+Nonce:
+0x0000000000000000
+More Details:
+Click to show less
+Blocks are batches of transactions linked via cryptographic hashes. Any tampering of a block would invalidate all following blocks as all subsequent hashes would change. Learn more about this page in our Knowledge Base. ☺
+v ✰ Thanks for opening an issue! ✰
+v Before smashing the submit button please review the template.
+v Word of caution: poorly thought-out proposals may be rejected
+v without deliberation
+☺ Token
+
+Summary
+
+Short, concise description of the proposed feature
+
+Problem Definition
+
+Why do we need this feature?
+What problems may be addressed by introducing this feature?
+What benefits does okexchain stand to gain by including this feature?
+Are there any disadvantages of including this feature?
+
+Proposal
+
+Detailed description of requirements of implementation
+
+For Admin Use
+
+[OKX] Not duplicate issue
+[OKX] Appropriate labels applied
+[OKX] Appropriate contributors tagged
+[OKX] Contributor assigned/self-assigned
+renBTC
